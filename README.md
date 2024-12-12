@@ -7,7 +7,6 @@ This repository contains the code, resources, and documentation required to buil
   - KY-033 IR sensors for simple line detection.
   - TCS34725 RGB sensor for precise line detection with PID-based speed adjustment.
 - Dynamic motor speed control for smooth and accurate path-following.
-- Calibration process for optimal sensor performance.
 - Support for curved and complex tracks.
 
 ## Components
@@ -55,23 +54,9 @@ The wiring diagram includes connections for both sensor approaches.
 
 ## Resources
 - **Blog Post:** [Building a Line Following Robot](https://omartronics.com/line-following-robot)
-- **YouTube Video:** [Step-by-Step Tutorial](https://youtu.be/your-video-link)
+- **YouTube Video KY-033:** [Step-by-Step Tutorial](https://youtu.be/your-video-link)
+- **YouTube Video TCS34725:** [Step-by-Step Tutorial](https://youtu.be/your-video-link)
 - **STL Files:** [3D Printable Files](https://cults3d.com/your-model-link)
 
-## Contributing
-Feel free to fork this repository, suggest changes, or contribute to the project. For detailed assembly and programming guides, visit the related blog post.
-
-## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code and resources.
-
----
-
-## Contact
-For questions or feedback, reach out via:
-- **Email:** omartronics@example.com
-- **Website:** [OmArTronics](https://omartronics.com)
-- **YouTube Channel:** [OmArTronics](https://youtube.com/omartronics)
-
----
 
 Enjoy building and exploring robotics with this hands-on project!
