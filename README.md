@@ -26,7 +26,7 @@ This repository contains the code, resources, and documentation required to buil
   - Arduino mount
 
 ## Code
-- For the **KY-033 Approach**, the code is available under `Arduino_Path_Following_Robot.ino`.
+- For the **KY-033 Approach**, the code is available under `Arduino_Path_Following_Robot_KY-033.ino`.
 - For the **TCS34725 Approach**, the code is available under `Arduino_Path_Following_Robot_TCS34725.ino`.
 
 ## How to Use
@@ -53,10 +53,11 @@ The wiring diagram includes connections for both sensor approaches.
 *Both setups are available for reference in the repository.*
 
 ## Resources
-- **Blog Post:** [Building a Line Following Robot](https://omartronics.com/line-following-robot)
+- **Blog Post 1:** [Building a Line Following Robot with KY-033 Sensors](https://omartronics.com/building-a-line-following-robot-from-3d-design-to-implementation-with-ky-033-and-tcs34725-sensors/)
+- **Blog Post 2:** [Building a Line Following Robot with TCS34725 RGB Sensor](https://omartronics.com/building-a-line-following-robot-with-tcs34725-rgb-sensor/)
 - **YouTube Video KY-033:** [Step-by-Step Tutorial](https://youtu.be/your-video-link)
-- **YouTube Video TCS34725:** [Step-by-Step Tutorial](https://youtu.be/your-video-link)
-- **STL Files:** [3D Printable Files](https://cults3d.com/your-model-link)
+- **YouTube Video TCS34725:** [Step-by-Step Tutorial](https://youtu.be/rQcefOthMaI?si=7e3bOTNn8xU_p1Sb)
+- **STL Files:** [3D Printable Files](https://cults3d.com/:2553986)
 
 
 Enjoy building and exploring robotics with this hands-on project!
