@@ -55,7 +55,7 @@ The wiring diagram includes connections for both sensor approaches.
 ## Resources
 - **Blog Post 1:** [Building a Line Following Robot with KY-033 Sensors](https://omartronics.com/building-a-line-following-robot-from-3d-design-to-implementation-with-ky-033-and-tcs34725-sensors/)
 - **Blog Post 2:** [Building a Line Following Robot with TCS34725 RGB Sensor](https://omartronics.com/building-a-line-following-robot-with-tcs34725-rgb-sensor/)
-- **YouTube Video KY-033:** [Step-by-Step Tutorial](https://youtu.be/your-video-link)
+- **YouTube Video KY-033:** [Step-by-Step Tutorial](https://youtu.be/bwaEEXmUkrw)
 - **YouTube Video TCS34725:** [Step-by-Step Tutorial](https://youtu.be/rQcefOthMaI?si=7e3bOTNn8xU_p1Sb)
 - **STL Files:** [3D Printable Files](https://cults3d.com/:2553986)
 
